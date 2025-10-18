@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alessandra005
-- 👀 I’m interested in AI and software
+- 👀 I’m interested in AI, data and software
 - 🌱 I’m currently learning Computer Science at FIU
 
 
