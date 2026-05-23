@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Alessandra005
-- 👀 I’m interested in AI, data and software
-- 🌱 I’m currently learning Computer Science at FIU
+Hi! I'm Alessandra, a Computer Science student at Florida International University interested in AI, data, software development, and web technologies.
 
+🌱 I enjoy building projects that combine creativity and problem-solving while continuing to learn more about technology and its real-world impact. Currently, I’m exploring areas like machine learning, data-driven applications, and full-stack development through personal, academic, and organization-based projects.
 
 <!---
 Alessandra005/Alessandra005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
