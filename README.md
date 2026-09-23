@@ -8,14 +8,14 @@ Alessandra005/Alessandra005 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<br>
+- - -
 
 ### 🚀 Technical Skills 
 
 * **Languages:** Python, Java, JavaScript, C  
 * **Tools & Technologies:** Git, VS Code, SQL
 
-<br>
+- - -
 
 ### 🤝 Connect With Me 
 
